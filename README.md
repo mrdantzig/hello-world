@@ -1,2 +1,3 @@
 # hello-world
-Hello World project - GitHub Guides
+Hello World - GitHub Guides
+My name is Stephen B. Woo.
